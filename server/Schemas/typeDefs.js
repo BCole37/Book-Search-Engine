@@ -15,7 +15,7 @@ const typeDefs = gql`
         title: String
         image: String
         link: String
-    }1
+    }
     type Auth {
         token: ID!
         user: User
